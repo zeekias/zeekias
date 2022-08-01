@@ -1,7 +1,7 @@
 ### Olá, eu sou Ezequiel Magalhães 👋
 
 - 🔭 Desenvolvedor Front-End - HTML | CSS | JavaScript | ReactJS
-- 🌱 Estudando TypeScript
+- 🌱 Estudando ReactJs & TypeScript
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
